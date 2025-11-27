@@ -1,5 +1,5 @@
 /*
-Author: Onwude James Uchenna
+Author: Eze Solomon Nwaka
 Purpose: A program that enhances people chances of reflection by proving structure and prompts to guide users through various exercises.
          This program also attempt to solve the stretch assignment by keeping a log of how many times activities were performed.
 */
